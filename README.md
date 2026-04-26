@@ -2,6 +2,9 @@
 
 A premium, highly-interactive clone of the [Accredian Enterprise](https://enterprise.accredian.com/) platform, built with Next.js 15 and Tailwind CSS v4. This project features a revamped navigation system, multiple functional dummy pages, and state-of-the-art UI/UX animations.
 
+**Live Demo:** [https://accredian-alpha-liard.vercel.app/](https://accredian-alpha-liard.vercel.app/)
+
+
 ## 🚀 Setup Instructions
 
 ### Prerequisites
